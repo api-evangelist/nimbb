@@ -1,0 +1,53 @@
+{
+    "name": "Nimbb",
+    "description": "nimbb - Webcam Video Recorder - Embed Flash Video Recording - iPhone, iPad, iPod, Android - API for Developers",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/444-nimbb.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "webcams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nimbb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Nimbb",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/444-nimbb.jpg",
+            "humanURL": "http:\/\/nimbb.com\/Help\/Api.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nimbb-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/nimbb.com\/Help\/Api.aspx"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.netvibes.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.netvibes.com\/rss.php"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/netvibes"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/nimbb"
+        }
+    ]
+}
